@@ -2,7 +2,13 @@
 
 
 # 👨‍💻 About Me:
-I'm a **Intern/Junior Data Scientist** who enjoys exploring data.<br>Currently learning Python and Data Analysis.  <br><br>🔍 Interests: Data Science, Machine Learning and Data Visualization  <br>📚 Always learning new tools and techniques  <br>🚀 Excited to take part in real projects
+I'm an **Intern / Junior Data Scientist** with a keen interest in exploring and understanding data.  
+Currently developing my skills in **Python** and **ML**.  
+
+🔍 Interests: Data Science, Machine Learning, and Data Visualization  
+📚 Continuously learning new tools and techniques  
+🚀 Looking forward to contributing to real projects and gaining experience
+
 
 ## @ Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%D0%BA%D0%B5%D0%BD%D0%B5%D1%81%D0%B0%D1%80%D1%8B-%D1%85%D0%B0%D0%BB%D0%B8%D0%BB%D0%B0-008b802b9/)
@@ -16,7 +22,14 @@ I'm a **Intern/Junior Data Scientist** who enjoys exploring data.<br>Currently l
 - [💡 ML Models](https://github.com/Kenesary24/repo) – experiments with machine learning  
 - [📈 Data Dashboard](https://github.com/Kenesary24/repo) – interactive data visualization  
 
-# 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=Kenesary24&theme=great-gatsby&hide_border=true)<br/>
+# 📊 GitHub Stats
+
+<!-- Streak Stats -->
+![](https://nirzak-streak-stats.vercel.app/?user=Kenesary24&theme=great-gatsby&hide_border=true)
+
+<!-- Top Languages -->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kenesary24&theme=great-gatsby&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-[![Kenesary's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Kenesary24&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<!-- Activity Graph -->
+[![Kenesary's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Kenesary24&bg_color=1B1F2B&color=F7A41D&line=F7A41D&point=FF6F00)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
