@@ -2,7 +2,7 @@
 I'm a **Intern/Junior Data Scientist** who enjoys exploring data.<br>Currently learning Python and Data Analysis.  <br><br>🔍 Interests: Data Science, Machine Learning and Data Visualization  <br>📚 Always learning new tools and techniques  <br>🚀 Excited to take part in real projects
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)][(https://linkedin.com/in/КенесарыХалила)](https://www.linkedin.com/in/%D0%BA%D0%B5%D0%BD%D0%B5%D1%81%D0%B0%D1%80%D1%8B-%D1%85%D0%B0%D0%BB%D0%B8%D0%BB%D0%B0-008b802b9/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kenesaryhalila3@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/КенесарыХалила)(https://www.linkedin.com/in/%D0%BA%D0%B5%D0%BD%D0%B5%D1%81%D0%B0%D1%80%D1%8B-%D1%85%D0%B0%D0%BB%D0%B8%D0%BB%D0%B0-008b802b9/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kenesaryhalila3@gmail.com) 
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
