@@ -2,7 +2,7 @@
 
 
 #  About Me:
-I'm an **Intern / Junior Data Scientist** with a keen interest in exploring and understanding data.  
+I'm an **Junior Data Science & Machine Learning (DS/ML) engineer** with a keen interest in exploring and understanding data.  
 Currently developing my skills in **Python** and **ML**.  
 
  Interests: Data Science, Machine Learning, and Data Visualization  
@@ -19,8 +19,8 @@ Currently developing my skills in **Python** and **ML**.
 
 #  Featured Projects
 - [ Real Estate Parser](https://github.com/Kenesary24/Web_scraping) – Automated data collection with **multithreading** and **captcha avoidance** techniques
-- [ ML Models](https://github.com/Kenesary24/repo) – experiments with machine learning  
-- [ Data Dashboard](https://github.com/Kenesary24/repo) – interactive data visualization  
+- [ ML Models](https://github.com/Kenesary24/repo) – Experiments with machine learning  
+- [ Data Analysis](https://github.com/Kenesary24/911-Calls-Analysis) – Exploratory data analysis (EDA) including data cleaning, feature extraction, time-series trends, and visualizations.
 
 #  GitHub Stats
 
