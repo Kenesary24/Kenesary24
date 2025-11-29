@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=27&pause=1000&color=F7A41D&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Kenesary;Intern+%2F+Junior+Data+Scientist)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=27&pause=1000&color=F7A41D&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Kenesary;Intern+%2F+Junior+Data+Science+%2F+ML)](https://git.io/typing-svg)
 
 
 #  About Me:
