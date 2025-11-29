@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=27&pause=1000&color=F7A41D&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Kenesary;Intern+%2F+Junior+Data+Scientist+%2F+Student;Always+trying+my+best!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=27&pause=1000&color=F7A41D&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Kenesary;Intern+%2F+Junior+Data+Scientist)](https://git.io/typing-svg)
 
 
 #  About Me:
@@ -21,15 +21,4 @@ Currently developing my skills in **Python** and **ML**.
 - [ Real Estate Parser](https://github.com/Kenesary24/Web_scraping) – Automated data collection with **multithreading** and **captcha avoidance** techniques
 - [ ML Models](https://github.com/Kenesary24/repo) – Experiments with machine learning  
 - [ Data Analysis](https://github.com/Kenesary24/911-Calls-Analysis) – Exploratory data analysis (EDA) including data cleaning, feature extraction, time-series trends, and visualizations.
-
-#  GitHub Stats
-
-<!-- Streak Stats -->
-![](https://nirzak-streak-stats.vercel.app/?user=Kenesary24&theme=great-gatsby&hide_border=true)
-
-<!-- Top Languages -->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kenesary24&theme=great-gatsby&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
-<!-- Activity Graph -->
-[![Kenesary's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Kenesary24&bg_color=1B1F2B&color=F7A41D&line=F7A41D&point=FF6F00)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
