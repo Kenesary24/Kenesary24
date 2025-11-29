@@ -2,7 +2,7 @@
 
 
 #  About Me:
-I'm an **Junior DataS cience & Machine Learning (DS/ML) engineer** with a keen interest in exploring and understanding data.  
+I'm an **Junior Data Science & Machine Learning (DS/ML) engineer** with a keen interest in exploring and understanding data.  
 Currently developing my skills in **Python** and **ML**.  
 
  Interests: Data Science, Machine Learning, and Data Visualization  
